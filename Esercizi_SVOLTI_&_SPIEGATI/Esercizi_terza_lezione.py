@@ -1,4 +1,4 @@
-# ESERCIZI 21-35: errori, if(), for(), while(), funzioni(), stringhe()
+# ESERCIZI TERZA LEZIONE: errori, if(), for(), while(), funzioni(), stringhe()
 
 # * ###############################################################################
 # * ESERCIZI 21- DA SVOLGERE DURANTE IL LABORATORIO

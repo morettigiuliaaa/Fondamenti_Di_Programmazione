@@ -1,4 +1,4 @@
-# ESERCIZI 1-5 PRIMA LEZIONE: print(), input(), int(), float(), str(), if().
+# ESERCIZI PRIMA LEZIONE: print(), input(), int(), float(), str(), if().
 
 #  * ------------------------------------------------------------------------------
 #  * ESERCIZIO 1 
