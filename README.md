@@ -11,6 +11,7 @@ Repository con il materiale di studio del corso di **Fondamenti di Programmazion
 - [Cosa contiene il repository](#-cosa-contiene-il-repository)
 - [Struttura delle cartelle](#-struttura-delle-cartelle)
 - [Esercizi](#-esercizi)
+- [Notebook degli esercizi Persico](#-notebook-degli-esercizi-persico)
 - [Commenti colorati con VS Code](#-commenti-colorati-con-vs-code)
 - [Legenda dei comandi](#-legenda-dei-comandi)
 - [Macchina virtuale](#%EF%B8%8F-macchina-virtuale)
@@ -101,6 +102,35 @@ Per vedere i file **formattati correttamente, con i commenti di colori diversi**
 
 ---
 
+## 🧠 Notebook degli esercizi Persico
+
+Nel repository è presente anche una cartella con i notebook dedicati agli esercizi di Persico, pensati per lavorare in modo interattivo direttamente in VS Code.
+
+### Dove trovarli
+
+- `esercizi_notebook/`
+- `esercizi_notebook/esercizi_raw_notebook/`
+
+Qui trovi i file `.ipynb` con esercizi in versione vuota e, se necessario, con soluzioni o struttura già pronta da completare.
+
+### Come configurarlo
+
+1. Apri **VS Code**.
+2. Installa l'estensione **Jupyter** (se non è già presente).
+3. Apri il notebook desiderato (`.ipynb`).
+4. Se richiesto, seleziona il **kernel Python** corretto.
+5. Verifica che nel tuo ambiente sia installato **Python 3.x** e che il comando `python` sia disponibile.
+6. Se VS Code non trova il kernel, usa **Select Kernel** e scegli l'interprete Python installato sul tuo computer.
+
+### Info utili
+
+- I notebook sono ideali per provare codice subito senza creare file separati.
+- Sono perfetti per testare brevi script, verificare output e correggere errori in tempo reale.
+- Se fai fatica a eseguire le celle, controlla che l'estensione **Python** e **Jupyter** sia installata correttamente.
+- Per un lavoro più ordinato, puoi usare il notebook per fare prove veloci e poi trasferire il codice negli esercizi standard del repository.
+
+---
+
 ## 📖 Legenda dei comandi
 
 Nel repository è presente una **legenda** con tutti i comandi e i concetti visti fino ad ora, da consultare velocemente quando serve ricordare una sintassi. La legenda cresce insieme al corso.
@@ -141,6 +171,15 @@ Il repository **viene aggiornato in base alle lezioni** e a quello che viene svo
 
 - Quando la professoressa **assegna degli esercizi**, vengono usati quelli.
 - Quando **non sono presenti esercizi** dati dalla professoressa, gli esercizi vengono **creati con Claude o ChatGPT**, basandosi sulle **slide** del corso e sugli **argomenti svolti a lezione**.
+
+---
+
+## ✨ Come usare al meglio il repository
+
+- Inizia sempre dagli esercizi in versione `raw` per provare a risolverli da solo.
+- Confronta poi la soluzione svolta e leggi i commenti per capire il ragionamento.
+- Consulta la legenda quando ti serve ripassare un comando o un concetto.
+- Se lavori in laboratorio, usa la VM per avere lo stesso ambiente di riferimento del corso.
 
 ---
 
