@@ -1,4 +1,4 @@
-# ESERCIZI 6-20 SECONDA LEZIONE: str, len(), indicizzazione, slicing,
+# ESERCIZI SECONDA LEZIONE: str, len(), indicizzazione, slicing,
 # index(), find(), metodi delle stringhe, f-string, bool, confronti,
 # and, or, not.
 
